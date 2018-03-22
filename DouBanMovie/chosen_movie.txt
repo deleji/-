@@ -1,0 +1,546 @@
+movie_name : Inception ,
+movie_score : 8.7 ,
+movie_time : 2010 ,
+rate_number : 1681682 ,
+movie_introdution : A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+movie_name : The Lord of the Rings: The Two Towers ,
+movie_score : 8.7 ,
+movie_time : 2002 ,
+rate_number : 1242338 ,
+movie_introdution : While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+
+movie_name : The Matrix ,
+movie_score : 8.7 ,
+movie_time : 1999 ,
+rate_number : 1381047 ,
+movie_introdution : A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+movie_name : Fight Club ,
+movie_score : 8.8 ,
+movie_time : 1999 ,
+rate_number : 1539459 ,
+movie_introdution : An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+
+movie_name : The Lord of the Rings: The Fellowship of the Ring ,
+movie_score : 8.8 ,
+movie_time : 2001 ,
+rate_number : 1392026 ,
+movie_introdution : A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+
+movie_name : The Lord of the Rings: The Return of the King ,
+movie_score : 8.9 ,
+movie_time : 2003 ,
+rate_number : 1372372 ,
+movie_introdution : Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+
+movie_name : Pirates of the Caribbean: The Curse of the Black Pearl ,
+movie_score : 8.0 ,
+movie_time : 2003 ,
+rate_number : 905923 ,
+movie_introdution : Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+
+movie_name : Twelve Monkeys ,
+movie_score : 8.0 ,
+movie_time : 1995 ,
+rate_number : 513425 ,
+movie_introdution : In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+
+movie_name : The Help ,
+movie_score : 8.0 ,
+movie_time : 2011 ,
+rate_number : 362734 ,
+movie_introdution : An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
+
+movie_name : The Bourne Ultimatum ,
+movie_score : 8.0 ,
+movie_time : 2007 ,
+rate_number : 550892 ,
+movie_introdution : Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.
+
+movie_name : Donnie Darko ,
+movie_score : 8.0 ,
+movie_time : 2001 ,
+rate_number : 653993 ,
+movie_introdution : A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.
+
+movie_name : Monsters, Inc. ,
+movie_score : 8.0 ,
+movie_time : 2001 ,
+rate_number : 674271 ,
+movie_introdution : In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
+
+movie_name : Harry Potter and the Deathly Hallows: Part 2 ,
+movie_score : 8.0 ,
+movie_time : 2011 ,
+rate_number : 631358 ,
+movie_introdution : Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+movie_name : Catch Me If You Can ,
+movie_score : 8.0 ,
+movie_time : 2002 ,
+rate_number : 640408 ,
+movie_introdution : The story of Frank Abagnale Jr., before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and legal prosecutor as a seasoned and dedicated FBI agent pursues him.
+
+movie_name : Prisoners ,
+movie_score : 8.0 ,
+movie_time : 2013 ,
+rate_number : 472440 ,
+movie_introdution : When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.
+
+movie_name : Before Sunrise ,
+movie_score : 8.1 ,
+movie_time : 1995 ,
+rate_number : 215613 ,
+movie_introdution : A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
+
+movie_name : Spotlight ,
+movie_score : 8.1 ,
+movie_time : 2015 ,
+rate_number : 311857 ,
+movie_introdution : The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+
+movie_name : La La Land ,
+movie_score : 8.1 ,
+movie_time : 2016 ,
+rate_number : 354879 ,
+movie_introdution : While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+
+movie_name : The Truman Show ,
+movie_score : 8.1 ,
+movie_time : 1998 ,
+rate_number : 766839 ,
+movie_introdution : An insurance salesman/adjuster discovers his entire life is actually a television show.
+
+movie_name : Logan ,
+movie_score : 8.1 ,
+movie_time : 2017 ,
+rate_number : 456996 ,
+movie_introdution : In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.
+
+movie_name : Mad Max: Fury Road ,
+movie_score : 8.1 ,
+movie_time : 2015 ,
+rate_number : 695672 ,
+movie_introdution : A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.
+
+movie_name : Million Dollar Baby ,
+movie_score : 8.1 ,
+movie_time : 2004 ,
+rate_number : 545311 ,
+movie_introdution : A determined woman works with a hardened boxing trainer to become a professional.
+
+movie_name : 12 Years a Slave ,
+movie_score : 8.1 ,
+movie_time : 2013 ,
+rate_number : 525445 ,
+movie_introdution : In the antebellum United States,
+
+movie_name : The Grand Budapest Hotel ,
+movie_score : 8.1 ,
+movie_time : 2014 ,
+rate_number : 574422 ,
+movie_introdution : The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.
+
+movie_name : Rush ,
+movie_score : 8.1 ,
+movie_time : 2013 ,
+rate_number : 362558 ,
+movie_introdution : The merciless 1970s rivalry between Formula One rivals
+
+movie_name : Hotel Rwanda ,
+movie_score : 8.1 ,
+movie_time : 2004 ,
+rate_number : 294222 ,
+movie_introdution : Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.
+
+movie_name : Into the Wild ,
+movie_score : 8.1 ,
+movie_time : 2007 ,
+rate_number : 487646 ,
+movie_introdution : After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.
+
+movie_name : How to Train Your Dragon ,
+movie_score : 8.1 ,
+movie_time : 2010 ,
+rate_number : 556136 ,
+movie_introdution : A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+
+movie_name : Gone Girl ,
+movie_score : 8.1 ,
+movie_time : 2014 ,
+rate_number : 688609 ,
+movie_introdution : With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+
+movie_name : Shutter Island ,
+movie_score : 8.1 ,
+movie_time : 2010 ,
+rate_number : 916247 ,
+movie_introdution : In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.
+
+movie_name : Hacksaw Ridge ,
+movie_score : 8.1 ,
+movie_time : 2016 ,
+rate_number : 303395 ,
+movie_introdution : WWII American Army Medic
+
+movie_name : Kill Bill: Vol. 1 ,
+movie_score : 8.1 ,
+movie_time : 2003 ,
+rate_number : 833133 ,
+movie_introdution : The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
+
+movie_name : There Will Be Blood ,
+movie_score : 8.1 ,
+movie_time : 2007 ,
+rate_number : 427172 ,
+movie_introdution : A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+
+movie_name : Fargo ,
+movie_score : 8.1 ,
+movie_time : 1996 ,
+rate_number : 517869 ,
+movie_introdution : Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+
+movie_name : Finding Nemo ,
+movie_score : 8.1 ,
+movie_time : 2003 ,
+rate_number : 796737 ,
+movie_introdution : After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+
+movie_name : The Big Lebowski ,
+movie_score : 8.1 ,
+movie_time : 1998 ,
+rate_number : 611195 ,
+movie_introdution : "The Dude" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+
+movie_name : No Country for Old Men ,
+movie_score : 8.1 ,
+movie_time : 2007 ,
+rate_number : 702535 ,
+movie_introdution : Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+
+movie_name : The Sixth Sense ,
+movie_score : 8.1 ,
+movie_time : 1999 ,
+rate_number : 787447 ,
+movie_introdution : A boy who communicates with spirits seeks the help of a disheartened child psychologist.
+
+movie_name : Warrior ,
+movie_score : 8.1 ,
+movie_time : 2011 ,
+rate_number : 375859 ,
+movie_introdution : The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.
+
+movie_name : Trainspotting ,
+movie_score : 8.1 ,
+movie_time : 1996 ,
+rate_number : 547919 ,
+movie_introdution : Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+
+movie_name : Blade Runner 2049 ,
+movie_score : 8.1 ,
+movie_time : 2017 ,
+rate_number : 256380 ,
+movie_introdution : A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
+
+movie_name : Gran Torino ,
+movie_score : 8.1 ,
+movie_time : 2008 ,
+rate_number : 626876 ,
+movie_introdution : Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.
+
+movie_name : V for Vendetta ,
+movie_score : 8.1 ,
+movie_time : 2005 ,
+rate_number : 891289 ,
+movie_introdution : In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
+
+movie_name : The Wolf of Wall Street ,
+movie_score : 8.1 ,
+movie_time : 2013 ,
+rate_number : 932097 ,
+movie_introdution : Based on the true story of
+
+movie_name : Casino ,
+movie_score : 8.2 ,
+movie_time : 1995 ,
+rate_number : 379735 ,
+movie_introdution : A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.
+
+movie_name : Room ,
+movie_score : 8.2 ,
+movie_time : 2015 ,
+rate_number : 263609 ,
+movie_introdution : A young boy is raised within the confines of a small shed.
+
+movie_name : Lock, Stock and Two Smoking Barrels ,
+movie_score : 8.2 ,
+movie_time : 1998 ,
+rate_number : 462395 ,
+movie_introdution : A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.
+
+movie_name : A Beautiful Mind ,
+movie_score : 8.2 ,
+movie_time : 2001 ,
+rate_number : 706588 ,
+movie_introdution : After
+
+movie_name : Inside Out ,
+movie_score : 8.2 ,
+movie_time : 2015 ,
+rate_number : 466640 ,
+movie_introdution : After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
+
+movie_name : Howl's Moving Castle ,
+movie_score : 8.2 ,
+movie_time : 2004 ,
+rate_number : 253168 ,
+movie_introdution : When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
+
+movie_name : Pan's Labyrinth ,
+movie_score : 8.2 ,
+movie_time : 2006 ,
+rate_number : 529732 ,
+movie_introdution : In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+
+movie_name : Heat ,
+movie_score : 8.2 ,
+movie_time : 1995 ,
+rate_number : 484363 ,
+movie_introdution : A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist, while both sides attempt to find balance between their personal and professional lives.
+
+movie_name : Downfall ,
+movie_score : 8.2 ,
+movie_time : 2004 ,
+rate_number : 281626 ,
+movie_introdution : Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.
+
+movie_name : Batman Begins ,
+movie_score : 8.2 ,
+movie_time : 2005 ,
+rate_number : 1106730 ,
+movie_introdution : After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.
+
+movie_name : Up ,
+movie_score : 8.2 ,
+movie_time : 2009 ,
+rate_number : 769458 ,
+movie_introdution : Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+
+movie_name : L.A. Confidential ,
+movie_score : 8.2 ,
+movie_time : 1997 ,
+rate_number : 460427 ,
+movie_introdution : As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.
+
+movie_name : The Hunt ,
+movie_score : 8.3 ,
+movie_time : 2012 ,
+rate_number : 212145 ,
+movie_introdution : A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
+
+movie_name : Snatch ,
+movie_score : 8.3 ,
+movie_time : 2000 ,
+rate_number : 672464 ,
+movie_introdution : Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
+
+movie_name : Good Will Hunting ,
+movie_score : 8.3 ,
+movie_time : 1997 ,
+rate_number : 700926 ,
+movie_introdution : Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+
+movie_name : Toy Story 3 ,
+movie_score : 8.3 ,
+movie_time : 2010 ,
+rate_number : 623429 ,
+movie_introdution : The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+
+movie_name : Toy Story ,
+movie_score : 8.3 ,
+movie_time : 1995 ,
+rate_number : 718973 ,
+movie_introdution : A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+
+movie_name : 3 Idiots ,
+movie_score : 8.3 ,
+movie_time : 2009 ,
+rate_number : 263959 ,
+movie_introdution : Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".
+
+movie_name : Inglourious Basterds ,
+movie_score : 8.3 ,
+movie_time : 2009 ,
+rate_number : 1023586 ,
+movie_introdution : In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
+
+movie_name : Eternal Sunshine of the Spotless Mind ,
+movie_score : 8.3 ,
+movie_time : 2004 ,
+rate_number : 759466 ,
+movie_introdution : When their relationship turns sour, a young couple undergoes a medical procedure to have each other erased from their memories.
+
+movie_name : Amélie ,
+movie_score : 8.3 ,
+movie_time : 2001 ,
+rate_number : 605128 ,
+movie_introdution : Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
+
+movie_name : Requiem for a Dream ,
+movie_score : 8.3 ,
+movie_time : 2000 ,
+rate_number : 650538 ,
+movie_introdution : The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+
+movie_name : Braveheart ,
+movie_score : 8.3 ,
+movie_time : 1995 ,
+rate_number : 831629 ,
+movie_introdution : When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.
+
+movie_name : Oldboy ,
+movie_score : 8.4 ,
+movie_time : 2003 ,
+rate_number : 416221 ,
+movie_introdution : After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+
+movie_name : The Dark Knight Rises ,
+movie_score : 8.4 ,
+movie_time : 2012 ,
+rate_number : 1288144 ,
+movie_introdution : Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.
+
+movie_name : Princess Mononoke ,
+movie_score : 8.4 ,
+movie_time : 1997 ,
+rate_number : 263526 ,
+movie_introdution : On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+
+movie_name : WALL·E ,
+movie_score : 8.4 ,
+movie_time : 2008 ,
+rate_number : 827855 ,
+movie_introdution : In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.
+
+movie_name : American Beauty ,
+movie_score : 8.4 ,
+movie_time : 1999 ,
+rate_number : 925637 ,
+movie_introdution : A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+
+movie_name : Django Unchained ,
+movie_score : 8.4 ,
+movie_time : 2012 ,
+rate_number : 1107978 ,
+movie_introdution : With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+
+movie_name : The Lives of Others ,
+movie_score : 8.4 ,
+movie_time : 2006 ,
+rate_number : 295824 ,
+movie_introdution : In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+
+movie_name : Memento ,
+movie_score : 8.5 ,
+movie_time : 2000 ,
+rate_number : 957814 ,
+movie_introdution : A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
+
+movie_name : The Prestige ,
+movie_score : 8.5 ,
+movie_time : 2006 ,
+rate_number : 976999 ,
+movie_introdution : After a tragic accident two stage magicians engage in a battle to create the ultimate illusion whilst sacrificing everything they have to outwit the other.
+
+movie_name : Gladiator ,
+movie_score : 8.5 ,
+movie_time : 2000 ,
+rate_number : 1114039 ,
+movie_introdution : When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+
+movie_name : Whiplash ,
+movie_score : 8.5 ,
+movie_time : 2014 ,
+rate_number : 534546 ,
+movie_introdution : A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.
+
+movie_name : The Departed ,
+movie_score : 8.5 ,
+movie_time : 2006 ,
+rate_number : 991074 ,
+movie_introdution : An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+
+movie_name : The Pianist ,
+movie_score : 8.5 ,
+movie_time : 2002 ,
+rate_number : 579784 ,
+movie_introdution : A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+
+movie_name : The Intouchables ,
+movie_score : 8.5 ,
+movie_time : 2011 ,
+rate_number : 605094 ,
+movie_introdution : After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
+
+movie_name : The Green Mile ,
+movie_score : 8.5 ,
+movie_time : 1999 ,
+rate_number : 913269 ,
+movie_introdution : The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+
+movie_name : American History X ,
+movie_score : 8.5 ,
+movie_time : 1998 ,
+rate_number : 883043 ,
+movie_introdution : A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+
+movie_name : Spirited Away ,
+movie_score : 8.5 ,
+movie_time : 2001 ,
+rate_number : 497119 ,
+movie_introdution : During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+
+movie_name : Saving Private Ryan ,
+movie_score : 8.5 ,
+movie_time : 1998 ,
+rate_number : 1012277 ,
+movie_introdution : Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+
+movie_name : Interstellar ,
+movie_score : 8.5 ,
+movie_time : 2014 ,
+rate_number : 1148940 ,
+movie_introdution : A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+
+movie_name : The Usual Suspects ,
+movie_score : 8.6 ,
+movie_time : 1995 ,
+rate_number : 838580 ,
+movie_introdution : A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+
+movie_name : Life Is Beautiful ,
+movie_score : 8.6 ,
+movie_time : 1997 ,
+rate_number : 496279 ,
+movie_introdution : When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+
+movie_name : Se7en ,
+movie_score : 8.6 ,
+movie_time : 1995 ,
+rate_number : 1172026 ,
+movie_introdution : Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.
+
+movie_name : City of God ,
+movie_score : 8.6 ,
+movie_time : 2002 ,
+rate_number : 597289 ,
+movie_introdution : Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.
+
+movie_name : The Dark Knight ,
+movie_score : 9.0 ,
+movie_time : 2008 ,
+rate_number : 1894075 ,
+movie_introdution : When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+

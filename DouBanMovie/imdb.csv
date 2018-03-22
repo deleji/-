@@ -1,0 +1,744 @@
+introdution,time,num,score,movie_name
+"
+                    The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+            ",(1972),"1,314,130",9.2,The Godfather
+"
+                    Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.
+            ",(2002),"597,275",8.6,City of God
+"
+                    Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+            ",(1994),"1,922,281",9.2,The Shawshank Redemption
+"
+                    A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+            ",(1999),"1,381,014",8.7,The Matrix
+"
+                    Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.
+            ",(1995),"1,171,993",8.6,Se7en
+"
+                    The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.
+            ",(1974),"907,544",9.0,The Godfather: Part II
+"
+                    Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
+            ",(1977),"1,038,473",8.6,Star Wars: Episode IV - A New Hope
+"
+                    A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.
+            ",(1954),"259,037",8.6,Seven Samurai
+"
+                    The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+            ",(1990),"828,341",8.7,Goodfellas
+"
+                    The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+            ",(1994),"1,453,883",8.7,Forrest Gump
+"
+                    A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            ",(2001),"1,391,987",8.8,The Lord of the Rings: The Fellowship of the Ring
+"
+                    A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.
+            ",(1975),"766,304",8.7,One Flew Over the Cuckoo's Nest
+"
+                    While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+            ",(2002),"1,242,301",8.7,The Lord of the Rings: The Two Towers
+"
+                    A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+            ",(2010),"1,681,629",8.7,Inception
+"
+                    After the rebels are overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda. His friends accept shelter from a questionable ally as Darth Vader hunts them in a plan to capture Luke.
+            ",(1980),"966,303",8.7,Star Wars: Episode V - The Empire Strikes Back
+"
+                    An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+            ",(1999),"1,539,426",8.8,Fight Club
+"
+                    A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.
+            ",(1986),"114,440",8.0,Castle in the Sky
+"
+                    Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.
+            ",(1982),"48,366",8.0,Fanny and Alexander
+"
+                    Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.
+            ",(2004),"187,806",8.0,Before Sunset
+"
+                    A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
+            ",(1988),"123,178",8.0,Akira
+"
+                    Blacksmith Will Turner teams up with eccentric pirate ""Captain"" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+            ",(2003),"905,893",8.0,Pirates of the Caribbean: The Curse of the Black Pearl
+"
+                    A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.
+            ",(2016),"56,390",8.0,The Handmaiden
+"
+                    A young woman whose father has been imprisoned by a terrifying beast offers herself in his place, unaware that her captor is actually a prince, physically altered by a magic spell.
+            ",(1991),"358,670",8.0,Beauty and the Beast
+"
+                    Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.
+            ",(1984),"62,244",8.0,"Paris, Texas"
+"
+                    In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+            ",(1995),"513,414",8.0,Twelve Monkeys
+"
+                    Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.
+            ",(2000),"92,017",8.0,In the Mood for Love
+"
+                    An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
+            ",(2011),"362,710",8.0,The Help
+"
+                    A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.
+            ",(2012),"58,794",8.0,Gangs of Wasseypur
+"
+                    A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.
+            ",(2002),"103,918",8.0,Infernal Affairs
+"
+                    Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.
+            ",(1946),"46,783",8.0,The Best Years of Our Lives
+"
+                    English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.
+            ",(1989),"321,721",8.0,Dead Poets Society
+"
+                    Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.
+            ",(2007),"550,876",8.0,The Bourne Ultimatum
+"
+                    A harried movie director retreats into his memories and fantasies.
+            ",(1963),"90,295",8.0,8½
+"
+                    A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wrecking havoc in a beach resort.
+            ",(1975),"470,118",8.0,Jaws
+"
+                    A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.
+            ",(1984),"676,242",8.0,The Terminator
+"
+                    Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home in Kansas and help her friends as well.
+            ",(1939),"326,661",8.0,The Wizard of Oz
+"
+                    Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.
+            ",(1977),"221,544",8.0,Annie Hall
+"
+                    24 hours in the lives of three young men in the French suburbs the day after a violent riot.
+            ",(1995),"120,138",8.0,La Haine
+"
+                    A weatherman finds himself inexplicably living the same day over and over again.
+            ",(1993),"501,251",8.0,Groundhog Day
+"
+                    A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.
+            ",(1958),"82,636",8.0,Touch of Evil
+"
+                    A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.
+            ",(2001),"653,972",8.0,Donnie Darko
+"
+                    An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.
+            ",(1975),"117,773",8.0,Barry Lyndon
+"
+                    Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.
+            ",(1982),"193,177",8.0,Gandhi
+"
+                    During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.
+            ",(1973),"30,111",8.0,Paper Moon
+"
+                    A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.
+            ",(1940),"72,501",8.0,The Grapes of Wrath
+"
+                    In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
+            ",(2001),"674,245",8.0,"Monsters, Inc."
+"
+                    The wife and mistress of a cruel headmaster conspire to kill him; after the murder is committed, his corpse disappears, and strange events begin to plague the two women.
+            ",(1955),"49,506",8.0,Diabolique
+"
+                    A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.
+            ",(1957),"32,435",8.0,The Nights of Cabiria
+"
+                    A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.
+            ",(1941),"128,425",8.0,The Maltese Falcon
+"
+                    Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.
+            ",(1976),"433,101",8.0,Rocky
+"
+                    The story of Frank Abagnale Jr., before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and legal prosecutor as a seasoned and dedicated FBI agent pursues him.
+            ",(2002),"640,370",8.0,Catch Me If You Can
+"
+                    Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+            ",(2011),"631,330",8.0,Harry Potter and the Deathly Hallows: Part 2
+"
+                    While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
+            ",(1987),"330,948",8.1,The Princess Bride
+"
+                    When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.
+            ",(2013),"472,420",8.0,Prisoners
+"
+                    Warrior/pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.
+            ",(1984),"114,184",8.1,Nausicaä of the Valley of the Wind
+"
+                    A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday.
+            ",(2008),"58,746",8.1,A Wednesday
+"
+                    A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
+            ",(1995),"215,605",8.1,Before Sunrise
+"
+                    A college professor's bond with the abandoned dog he takes into his home.
+            ",(2009),"197,242",8.1,Hachi: A Dog's Tale
+"
+                    A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.
+            ",(2000),"193,348",8.1,Amores Perros
+"
+                    Two Western bank and train robbers flee to Bolivia when the law gets too close.
+            ",(1969),"171,969",8.1,Butch Cassidy and the Sundance Kid
+"
+                    While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+            ",(2016),"354,819",8.1,La La Land
+"
+                    In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.
+            ",(2017),"456,913",8.1,Logan
+"
+                    An insurance salesman/adjuster discovers his entire life is actually a television show.
+            ",(1998),"766,812",8.1,The Truman Show
+"
+                    A determined woman works with a hardened boxing trainer to become a professional.
+            ",(2004),"545,287",8.1,Million Dollar Baby
+"
+                    The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+            ",(2015),"311,827",8.1,Spotlight
+"
+                    In a small Korean province in 1986, three detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.
+            ",(2003),"85,514",8.1,Memories of Murder
+"
+                    A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.
+            ",(2015),"695,633",8.1,Mad Max: Fury Road
+"
+                    Moving story of a young boy who, left without attention, delves into a life of petty crime.
+            ",(1959),"82,048",8.1,The 400 Blows
+"
+                    In the antebellum United States, ",(2013),"525,409",8.1,12 Years a Slave
+"
+                    During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+            ",(1993),"709,516",8.1,Jurassic Park
+"
+                    A nurse is put in charge of a mute actress and finds that their personas are melding together.
+            ",(1966),"74,848",8.1,Persona
+"
+                    In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.
+            ",(1953),"41,886",8.1,The Wages of Fear
+"
+                    When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.
+            ",(1959),"184,475",8.1,Ben-Hur
+"
+                    A guide leads two men through an area known as the Zone to find a room that grants wishes.
+            ",(1979),"83,870",8.1,Stalker
+"
+                    The merciless 1970s rivalry between Formula One rivals ",(2013),"362,549",8.1,Rush
+"
+                    After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.
+            ",(1986),"309,111",8.1,Stand by Me
+"
+                    The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.
+            ",(2014),"574,390",8.1,The Grand Budapest Hotel
+"
+                    A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.
+            ",(1976),"119,065",8.1,Network
+"
+                    A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.
+            ",(1986),"326,728",8.1,Platoon
+"
+                    Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.
+            ",(2004),"294,212",8.1,Hotel Rwanda
+"
+                    In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.
+            ",(1928),"32,960",8.1,The Passion of Joan of Arc
+"
+                    A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
+            ",(1993),"128,429",8.1,In the Name of the Father
+"
+                    A spoiled heiress running away from her family is helped by a man who is actually a reporter in need of a story.
+            ",(1934),"75,574",8.1,It Happened One Night
+"
+                    Six short stories that explore the extremities of human behavior involving people in distress.
+            ",(2014),"127,785",8.1,Wild Tales
+"
+                    The story of six young Indians who assist an English Woman to film a documentary on the extremist freedom fighters from their past, and the events that lead them to relive the long forgotten saga of freedom.
+            ",(2006),"88,687",8.1,Rang De Basanti
+"
+                    Brian is born on the original Christmas, in the stable next door. He spends his life being mistaken for a messiah.
+            ",(1979),"305,376",8.1,Life of Brian
+"
+                    With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+            ",(2014),"688,586",8.1,Gone Girl
+"
+                    A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.
+            ",(2009),"137,974",8.1,Mary and Max
+"
+                    After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.
+            ",(2007),"487,633",8.1,Into the Wild
+"
+                    A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+            ",(2010),"556,114",8.1,How to Train Your Dragon
+"
+                    In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.
+            ",(2010),"916,213",8.1,Shutter Island
+"
+                    A self-conscious bride is tormented by the memory of her husband's dead first wife.
+            ",(1940),"100,235",8.1,Rebecca
+"
+                    The epic adventures of the legendary Baran the Bandit following his release from prison. After serving 35 years, it is no surprise that the world has changed dramatically. Still, Baran ...
+                    ",(1996),"47,031",8.1,The Bandit
+"
+                    WWII American Army Medic ",(2016),"303,356",8.1,Hacksaw Ridge
+"
+                    A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.
+            ",(1967),"135,157",8.1,Cool Hand Luke
+"
+                    The life, times and afflictions of the fifteenth-century Russian iconographer.
+            ",(1966),"30,923",8.1,Andrei Rublev
+"
+                    An old couple visit their children and grandchildren in the city; but the children have little time for them.
+            ",(1953),"35,280",8.1,Tokyo Story
+"
+                    The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
+            ",(2003),"833,111",8.1,Kill Bill: Vol. 1
+"
+                    After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.
+            ",(1985),"34,969",8.1,Come and See
+"
+                    ""The Dude"" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+            ",(1998),"611,174",8.1,The Big Lebowski
+"
+                    An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.
+            ",(1927),"36,319",8.1,Sunrise
+"
+                    Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+            ",(1996),"517,835",8.1,Fargo
+"
+                    A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+            ",(2007),"427,156",8.1,There Will Be Blood
+"
+                    A crew in Antarctica finds a neighboring camp destroyed and its crew dead. Whatever killed them is nowhere to be found, unless it's hidden in plain sight.
+            ",(1982),"300,095",8.1,The Thing
+"
+                    Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+            ",(2007),"702,503",8.1,No Country for Old Men
+"
+                    An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.
+            ",(1978),"262,653",8.1,The Deer Hunter
+"
+                    A boy who communicates with spirits seeks the help of a disheartened child psychologist.
+            ",(1999),"787,427",8.1,The Sixth Sense
+"
+                    After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+            ",(2003),"796,707",8.1,Finding Nemo
+"
+                    A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
+            ",(2017),"256,152",8.1,Blade Runner 2049
+"
+                    Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.
+            ",(2008),"626,858",8.1,Gran Torino
+"
+                    Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+            ",(1996),"547,901",8.1,Trainspotting
+"
+                    After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.
+            ",(1957),"73,551",8.1,Wild Strawberries
+"
+                    An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.
+            ",(1954),"125,394",8.1,Dial M for Murder
+"
+                    When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.
+            ",(1926),"62,692",8.1,The General
+"
+                    The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.
+            ",(2011),"375,850",8.1,Warrior
+"
+                    A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+            ",(1939),"243,232",8.1,Gone with the Wind
+"
+                    A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+            ",(1982),"570,772",8.1,Blade Runner
+"
+                    In a future British tyranny, a shadowy freedom fighter, known only by the alias of ""V"", plots to overthrow it with the help of a young woman.
+            ",(2005),"891,264",8.1,V for Vendetta
+"
+                    A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.
+            ",(1995),"379,713",8.2,Casino
+"
+                    A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.
+            ",(1980),"184,367",8.1,The Elephant Man
+"
+                    A young boy is raised within the confines of a small shed.
+            ",(2015),"263,586",8.2,Room
+"
+                    After ",(2001),"706,558",8.2,A Beautiful Mind
+"
+                    A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.
+            ",(1939),"88,045",8.2,Mr. Smith Goes to Washington
+"
+                    Based on the true story of ",(2013),"932,051",8.1,The Wolf of Wall Street
+"
+                    A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.
+            ",(1957),"128,683",8.2,The Seventh Seal
+"
+                    A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.
+            ",(1998),"462,381",8.2,"Lock, Stock and Two Smoking Barrels"
+"
+                    After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.
+            ",(1957),"170,079",8.2,The Bridge on the River Kwai
+"
+                    When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
+            ",(2004),"253,154",8.2,Howl's Moving Castle
+"
+                    After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
+            ",(2015),"466,608",8.2,Inside Out
+"
+                    A prospector goes to the Klondike in search of gold and finds it and more.
+            ",(1925),"79,439",8.2,The Gold Rush
+"
+                    An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.
+            ",(1954),"115,978",8.2,On the Waterfront
+"
+                    A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.
+            ",(2009),"156,096",8.2,The Secret in Their Eyes
+"
+                    In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.
+            ",(1985),"89,073",8.2,Ran
+"
+                    In 1948, an American court in occupied Germany tries four Nazi judges for war crimes.
+            ",(1961),"53,593",8.2,Judgment at Nuremberg
+"
+                    When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+            ",(1988),"209,945",8.2,My Neighbor Totoro
+"
+                    Twins journey to the Middle East to discover their family history, and fulfill their mother's last wishes.
+            ",(2010),"105,486",8.2,Incendies
+"
+                    Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.
+            ",(1949),"130,170",8.2,The Third Man
+"
+                    After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to ""win"" a new pair.
+            ",(1997),"41,319",8.2,Children of Heaven
+"
+                    Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.
+            ",(1963),"187,959",8.2,The Great Escape
+"
+                    In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+            ",(2006),"529,682",8.2,Pan's Labyrinth
+"
+                    A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.
+            ",(1952),"50,261",8.2,Ikiru
+"
+                    A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.
+            ",(1974),"245,002",8.2,Chinatown
+"
+                    Emotionally self-destructive boxer, Jake La Motta's journey through life, as the violence and temper that leads him to the top in the ring destroys his life outside it.
+            ",(1980),"264,736",8.2,Raging Bull
+"
+                    Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.
+            ",(1948),"91,184",8.2,The Treasure of the Sierra Madre
+"
+                    Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.
+            ",(2004),"281,619",8.2,Downfall
+"
+                    A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+            ",(2017),"157,012",8.2,"Three Billboards Outside Ebbing, Missouri"
+"
+                    A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist, while both sides attempt to find balance between their personal and professional lives.
+            ",(1995),"484,346",8.2,Heat
+"
+                    The family of a left-wing journalist is torn apart after a military coup in 1980's Turkey.
+            ",(2005),"54,659",8.2,My Father and My Son
+"
+                    John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+            ",(1988),"667,345",8.2,Die Hard
+"
+                    Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.
+            ",(1992),"313,939",8.2,Unforgiven
+"
+                    When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+            ",(1959),"200,131",8.2,Some Like It Hot
+"
+                    An ingenue insinuates herself into the company of an established but aging stage actress and her circle of theater friends.
+            ",(1950),"96,229",8.2,All About Eve
+"
+                    A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.
+            ",(1961),"85,741",8.2,Yojimbo
+"
+                    When Dr. Henry Jones, Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Dr. Henry ""Indiana"" Jones, Jr. must follow in his father's footsteps to stop the Nazis from getting their hands on the Holy Grail first.
+            ",(1989),"584,090",8.2,Indiana Jones and the Last Crusade
+"
+                    A heinous crime and its aftermath are recalled from differing points of view.
+            ",(1950),"119,360",8.2,Rashomon
+"
+                    Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+            ",(2009),"769,425",8.2,Up
+"
+                    A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.
+            ",(2011),"176,824",8.2,A Separation
+"
+                    After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.
+            ",(2005),"1,106,694",8.2,Batman Begins
+"
+                    In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
+            ",(1927),"129,227",8.2,Metropolis
+"
+                    A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.
+            ",(1960),"127,595",8.2,The Apartment
+"
+                    In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+            ",(1983),"610,354",8.3,Scarface
+"
+                    King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.
+            ",(1975),"425,985",8.3,Monty Python and the Holy Grail
+"
+                    Two bounty hunters with the same intentions team up to track down a Western outlaw.
+            ",(1965),"183,995",8.3,For a Few Dollars More
+"
+                    As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.
+            ",(1997),"460,412",8.2,L.A. Confidential
+"
+                    Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+            ",(1997),"700,895",8.3,Good Will Hunting
+"
+                    A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
+            ",(2012),"212,138",8.3,The Hunt
+"
+                    Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
+            ",(2000),"672,447",8.3,Snatch
+"
+                    The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+            ",(2010),"623,404",8.3,Toy Story 3
+"
+                    The Tramp cares for an abandoned child, but events put that relationship in jeopardy.
+            ",(1921),"83,440",8.3,The Kid
+"
+                    In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.
+            ",(1948),"111,802",8.3,Bicycle Thieves
+"
+                    Two grifters team up to pull off the ultimate con.
+            ",(1973),"200,108",8.3,The Sting
+"
+                    A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+            ",(1995),"718,941",8.3,Toy Story
+"
+                    A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+            ",(1987),"556,281",8.3,Full Metal Jacket
+"
+                    In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
+            ",(2009),"1,023,550",8.3,Inglourious Basterds
+"
+                    Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them ""idiots"".
+            ",(2009),"263,943",8.3,3 Idiots
+"
+                    Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
+            ",(1968),"491,200",8.3,2001: A Space Odyssey
+"
+                    Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.
+            ",(1962),"248,420",8.3,To Kill a Mockingbird
+"
+                    The story of ",(1962),"220,137",8.3,Lawrence of Arabia
+"
+                    A silent film production company and cast make a difficult transition to sound.
+            ",(1952),"177,005",8.3,Singin' in the Rain
+"
+                    A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action, while attempting to liberate a twelve-year-old prostitute.
+            ",(1976),"581,849",8.3,Taxi Driver
+"
+                    When their relationship turns sour, a young couple undergoes a medical procedure to have each other erased from their memories.
+            ",(2004),"759,443",8.3,Eternal Sunshine of the Spotless Mind
+"
+                    In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.
+            ",(1971),"634,425",8.3,A Clockwork Orange
+"
+                    An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.
+            ",(1944),"113,469",8.3,Double Indemnity
+"
+                    The incredible story of ",(1984),"309,271",8.3,Amadeus
+"
+                    An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.
+            ",(2007),"117,978",8.3,Like Stars on Earth
+"
+                    Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
+            ",(2001),"605,100",8.3,Amélie
+"
+                    After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Vader back from the dark side without falling into the Emperor's trap.
+            ",(1983),"794,070",8.3,Star Wars: Episode VI - Return of the Jedi
+"
+                    Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
+            ",(2016),"81,337",8.3,Your Name
+"
+                    When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
+            ",(1931),"114,466",8.3,M
+"
+                    The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+            ",(2000),"650,513",8.3,Requiem for a Dream
+"
+                    After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
+            ",(1992),"758,737",8.3,Reservoir Dogs
+"
+                    When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.
+            ",(1995),"831,602",8.3,Braveheart
+"
+                    Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.
+            ",(2016),"86,693",8.3,Dangal
+"
+                    A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.
+            ",(1959),"248,135",8.3,North by Northwest
+"
+                    A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.
+            ",(1984),"252,440",8.4,Once Upon a Time in America
+"
+                    A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.
+            ",(1958),"289,290",8.3,Vertigo
+"
+                    Ellen Ripley is rescued by a deep salvage team after being hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?
+            ",(1986),"556,687",8.4,Aliens
+"
+                    Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.
+            ",(1941),"335,090",8.3,Citizen Kane
+"
+                    The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.
+            ",(1981),"191,182",8.3,Das Boot
+"
+                    After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+            ",(2003),"416,204",8.4,Oldboy
+"
+                    A veteran British barrister must defend his client in a murder trial that has surprise after surprise.
+            ",(1957),"78,334",8.4,Witness for the Prosecution
+"
+                    A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+            ",(1999),"925,604",8.4,American Beauty
+"
+                    Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.
+            ",(2012),"1,288,105",8.4,The Dark Knight Rises
+"
+                    On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+            ",(1997),"263,507",8.4,Princess Mononoke
+"
+                    With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+            ",(2012),"1,107,942",8.4,Django Unchained
+"
+                    A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
+            ",(1980),"705,183",8.4,The Shining
+"
+                    After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.
+            ",(1957),"140,056",8.4,Paths of Glory
+"
+                    In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.
+            ",(2008),"827,816",8.4,WALL·E
+"
+                    In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+            ",(2006),"295,816",8.4,The Lives of Others
+"
+                    A young boy and his little sister struggle to survive in Japan during World War II.
+            ",(1988),"169,425",8.4,Grave of the Fireflies
+"
+                    A screenwriter is hired to rework a faded silent film star's script, only to find himself developing a dangerous relationship.
+            ",(1950),"161,169",8.4,Sunset Boulevard
+"
+                    Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.
+            ",(1940),"161,959",8.4,The Great Dictator
+"
+                    A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.
+            ",(1988),"179,292",8.4,Cinema Paradiso
+"
+                    An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.
+            ",(1964),"385,288",8.4,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+"
+                    Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+            ",(2017),"118,400",8.4,Coco
+"
+                    After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
+            ",(1979),"655,331",8.4,Alien
+"
+                    A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
+            ",(2000),"957,783",8.5,Memento
+"
+                    A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+            ",(1994),"750,956",8.5,The Lion King
+"
+                    During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade Colonel who has set himself up as a god among a local tribe.
+            ",(1979),"505,728",8.4,Apocalypse Now
+"
+                    After a tragic accident two stage magicians engage in a battle to create the ultimate illusion whilst sacrificing everything they have to outwit the other.
+            ",(2006),"976,968",8.5,The Prestige
+"
+                    A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.
+            ",(2014),"534,503",8.5,Whiplash
+"
+                    A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.
+            ",(1954),"362,231",8.5,Rear Window
+"
+                    When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+            ",(2000),"1,114,002",8.5,Gladiator
+"
+                    Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+            ",(1985),"846,343",8.5,Back to the Future
+"
+                    A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced cyborg.
+            ",(1991),"837,568",8.5,Terminator 2
+"
+                    Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.
+            ",(1981),"745,626",8.5,Raiders of the Lost Ark
+"
+                    An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+            ",(2006),"991,046",8.5,The Departed
+"
+                    With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+            ",(1931),"129,238",8.5,City Lights
+"
+                    A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+            ",(2002),"579,767",8.5,The Pianist
+"
+                    The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
+            ",(1936),"169,412",8.5,Modern Times
+"
+                    After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
+            ",(2011),"605,078",8.5,The Intouchables
+"
+                    A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.
+            ",(1960),"485,781",8.5,Psycho
+"
+                    A cynical nightclub owner protects an old flame and her husband from Nazis in Morocco.
+            ",(1942),"437,746",8.5,Casablanca
+"
+                    A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.
+            ",(1968),"247,824",8.5,Once Upon a Time in the West
+"
+                    The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+            ",(1999),"913,237",8.5,The Green Mile
+"
+                    A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+            ",(1998),"883,010",8.5,American History X
+"
+                    During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+            ",(2001),"497,099",8.5,Spirited Away
+"
+                    Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.
+            ",(1994),"837,258",8.5,Léon: The Professional
+"
+                    Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+            ",(1998),"1,012,240",8.5,Saving Private Ryan
+"
+                    A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+            ",(1995),"838,557",8.6,The Usual Suspects
+"
+                    A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+            ",(2014),"1,148,876",8.5,Interstellar
+"
+                    When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+            ",(1997),"496,263",8.6,Life Is Beautiful
+"
+                    A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.
+            ",(1966),"569,162",8.8,"The Good, the Bad and the Ugly"
+"
+                    A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.
+            ",(1991),"1,025,442",8.6,The Silence of the Lambs
+"
+                    The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+            ",(1994),"1,501,940",8.9,Pulp Fiction
+"
+                    A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.
+            ",(1957),"530,920",8.9,12 Angry Men
+"
+                    Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+            ",(2003),"1,372,329",8.9,The Lord of the Rings: The Return of the King
+"
+                    In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.
+            ",(1993),"989,831",8.9,Schindler's List
+"
+                    An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+            ",(1946),"322,042",8.6,It's a Wonderful Life
+"
+                    When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+            ",(2008),"1,894,009",9.0,The Dark Knight
